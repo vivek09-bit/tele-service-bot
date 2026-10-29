@@ -1,11 +1,10 @@
 {
     "company": {
-        "name": "Alex Carter",
+        "name": "Vivek Gupta",
         "tagline": "Full-Stack Developer, AI Automation Specialist & Freelance Consultant",
-        "email": "alex@example.com",
-        "phone": "+1 (555) 019-2834",
-        "telegram": "@alex_dev",
-        "website": "https://alexcarter.dev"
+        "email": "vkg1257@gmail.com",
+        "phone": "+91 8287 881-674",
+        "telegram": "@vivek1111"
     },
     "services": [
         {
@@ -38,7 +37,6 @@
         },
         {
             "id": "ai_automation",
-            "icon": "🤖",
             "title": "AI & Automation Solutions",
             "short_desc": "Custom AI chatbots, automated business workflows, and LLM integrations.",
             "full_desc": "Supercharge your productivity with custom AI assistants, Telegram & WhatsApp bots, and automated integrations between your CRM, database, and payment systems using Python, n8n, or Make.",
@@ -61,7 +59,7 @@
                 "llm",
                 "agent",
                 "n8n",
-                "make"
+                "langgraph"
             ]
         },
         {
