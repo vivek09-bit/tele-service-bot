@@ -1,0 +1,148 @@
+{
+    "company": {
+        "name": "Alex Carter",
+        "tagline": "Full-Stack Developer, AI Automation Specialist & Freelance Consultant",
+        "email": "alex@example.com",
+        "phone": "+1 (555) 019-2834",
+        "telegram": "@alex_dev",
+        "website": "https://alexcarter.dev"
+    },
+    "services": [
+        {
+            "id": "web_dev",
+            "icon": "🌐",
+            "title": "Web & Mobile App Development",
+            "short_desc": "Full-stack web apps, mobile apps, and scalable APIs tailored for your project.",
+            "full_desc": "I build fast, responsive, and secure web and mobile applications using modern frameworks like React, Next.js, Flutter, and Node.js/Python. From MVPs to full-scale applications, I ensure clean architecture, reliable performance, and great user experience.",
+            "pricing": "Starting at $1,200 (MVP) / $3,000+ (Custom Full-Stack)",
+            "deliverables": [
+                "Responsive Web / Native Mobile App",
+                "Clean REST / GraphQL API architecture",
+                "Database setup & cloud deployment",
+                "30 days post-launch warranty & support"
+            ],
+            "turnaround": "2 to 5 weeks",
+            "keywords": [
+                "web",
+                "website",
+                "app",
+                "mobile",
+                "ios",
+                "android",
+                "frontend",
+                "backend",
+                "fullstack",
+                "react",
+                "flutter"
+            ]
+        },
+        {
+            "id": "ai_automation",
+            "icon": "🤖",
+            "title": "AI & Automation Solutions",
+            "short_desc": "Custom AI chatbots, automated business workflows, and LLM integrations.",
+            "full_desc": "Supercharge your productivity with custom AI assistants, Telegram & WhatsApp bots, and automated integrations between your CRM, database, and payment systems using Python, n8n, or Make.",
+            "pricing": "Starting at $650 (Bot Setup) / $1,500 (Full Automation Workflow)",
+            "deliverables": [
+                "AI Chatbot or Telegram/WhatsApp Sales Bot",
+                "CRM & notification workflow integrations",
+                "Custom knowledge base (RAG) setup",
+                "Setup documentation & video walkthrough"
+            ],
+            "turnaround": "1 to 2 weeks",
+            "keywords": [
+                "ai",
+                "bot",
+                "chatbot",
+                "automation",
+                "workflow",
+                "sales bot",
+                "gpt",
+                "llm",
+                "agent",
+                "n8n",
+                "make"
+            ]
+        },
+        {
+            "id": "marketing_seo",
+            "icon": "📈",
+            "title": "Digital Marketing & SEO",
+            "short_desc": "Data-driven SEO, Google/Meta Ads campaigns, and conversion rate optimization.",
+            "full_desc": "Drive targeted traffic and increase conversions. I handle high-intent technical SEO, Google Ads, Meta Ads campaigns, and landing page conversion rate optimization (CRO) tailored to your niche.",
+            "pricing": "Starting at $450/month (SEO Starter) / $950/month (Full Growth)",
+            "deliverables": [
+                "Technical SEO audit & keyword strategy",
+                "High-ROI Ad campaign setup & management",
+                "Weekly performance reports & analytics",
+                "A/B testing and conversion landing pages"
+            ],
+            "turnaround": "Ongoing monthly retainer",
+            "keywords": [
+                "marketing",
+                "seo",
+                "ads",
+                "growth",
+                "google ads",
+                "traffic",
+                "leads",
+                "sales",
+                "facebook ads",
+                "meta"
+            ]
+        },
+        {
+            "id": "design_branding",
+            "icon": "🎨",
+            "title": "UI/UX & Brand Identity",
+            "short_desc": "Intuitive product design, UI/UX prototyping, and cohesive brand identity.",
+            "full_desc": "Elevate your project with clean, user-centric interfaces. I design Figma prototypes, wireframes, design systems, logo assets, and style guides ready for developer handoff.",
+            "pricing": "Starting at $400 (Brand Kit) / $950 (Complete Product UI/UX)",
+            "deliverables": [
+                "Figma prototypes & interactive mockups",
+                "Design system & component library",
+                "Brand assets: Logo, typography, palettes",
+                "Developer handoff documentation"
+            ],
+            "turnaround": "1 to 2 weeks",
+            "keywords": [
+                "design",
+                "ui",
+                "ux",
+                "figma",
+                "branding",
+                "logo",
+                "prototype",
+                "wireframe",
+                "style guide"
+            ]
+        },
+        {
+            "id": "cloud_devops",
+            "icon": "☁️",
+            "title": "Cloud Infrastructure & DevOps",
+            "short_desc": "Reliable cloud architecture, CI/CD pipelines, Docker, and 24/7 monitoring.",
+            "full_desc": "Modernize your infrastructure on AWS, Google Cloud, or VPS. I set up automated CI/CD pipelines, containerization (Docker), server security hardening, cost optimization, and automated backups.",
+            "pricing": "Starting at $500 (Audit & Setup) / $1,200+ (Full Setup & Migration)",
+            "deliverables": [
+                "Cloud architecture design & setup",
+                "Automated CI/CD pipelines (GitHub Actions/GitLab)",
+                "Docker containerization & orchestration",
+                "Cost optimization and security hardening"
+            ],
+            "turnaround": "1 to 2 weeks",
+            "keywords": [
+                "cloud",
+                "devops",
+                "aws",
+                "docker",
+                "kubernetes",
+                "hosting",
+                "ci/cd",
+                "server",
+                "linux",
+                "infra"
+            ]
+        }
+    ]
+}
